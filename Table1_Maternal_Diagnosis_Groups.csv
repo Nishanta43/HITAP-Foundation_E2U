@@ -1,0 +1,11 @@
+Group,ICD-10 code(s),Primary diagnosis (PDX),Secondary diagnosis (SDX1–21),Any diagnosis,Clinical conditions included
+Normal pregnancy supervision (ANC),Z34,98697,10722,109419,Routine antenatal care
+High-risk pregnancy supervision & antenatal screening,Z35–Z36,9372,17641,27013,High-risk ANC and antenatal screening
+Abortion,O00–O08,11448,524,11972,"Ectopic pregnancy, miscarriage, induced abortion and related complications"
+Pregnancy complications,O10–O29,10222,10361,20583,"Hypertension, diabetes, infections and other maternal disorders during pregnancy"
+Maternal care (fetal & placental conditions),O30–O48,9377,5115,14492,"Multiple pregnancy, fetal abnormalities, placental disorders and post-term pregnancy"
+Labour & delivery complications,O60–O75,6531,2588,9119,"Preterm labour, obstetric haemorrhage, obstructed labour, obstetric trauma and anaesthetic complications"
+Normal vaginal delivery,O80,6680,5049,11729,Spontaneous vaginal delivery
+Caesarean delivery,O82,177,6407,6584,Caesarean section
+Other delivery,"O81, O83–O84",25,279,304,"Instrumental, assisted and multiple deliveries"
+Postpartum (puerperium) complications,O85–O99,5263,6113,11376,"Postpartum infection, venous complications and maternal diseases complicating the puerperium"
